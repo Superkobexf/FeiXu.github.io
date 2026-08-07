@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: http://39.105.166.2:8000
+Sitemap: http://39.105.166.2:8000/sitemap.xml
